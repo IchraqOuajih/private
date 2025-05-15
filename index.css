@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #282c33;
+}
+.right{
+    display: flex;
+    gap: 20px;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+.head button{
+    background-color: #282c33;
+    border: none;
+    color: white;
+}
+.real{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+.g1{
+    margin-bottom: 20px;
+    font-size: 32px;
+    color: white;
+}
+.g2{
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #abb2bf;
+}
+.g3{
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: white;
+}
+.real{
+    gap: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+.ttsawr{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    margin-top: 50px;
+}
+.lv{
+    color: white;
+}
+.pic{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.skills h1{
+    margin-left: 360px;
+    color: white;
+}
+.lwest{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+}
+.skills{
+    margin-top: 50px;
+}
+
+.me{
+    margin-top: 50px;
+    display: flex;
+    gap: 250px;
+}
+.me h1{
+    margin-left: 360px;
+    color: white;
+}
+.me p{
+    margin-left: 360px;
+    color: #ABB2BF;
+    font-size: 16px;
+    margin-top: 50px;
+}
+.right button{
+    cursor: pointer;
+}
+.vvv{
+    margin-left: 357px;
+    margin-top: 20px;
+    padding: 3px 10px 3px 10px;
+    cursor: pointer;
+    border-color: violet;
+    background-color: #282c33;
+    color: white;
+}
+
+.footer h1{
+    margin-left: 360px;
+    color: white;
+}
+.up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+    margin-top: 50px;
+}
+.aa p{
+    font-size: 16px;
+    color: #ABB2BF;
+}
+.footer{
+    margin-top: 50px;
+}
+
+.ggwa{
+    width: 1521px;
+    height: 2px;
+    background-color: white;
+    margin-top: 50px;
+}
+.tali{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+.bellow p{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    color: #ABB2BF;
+}
